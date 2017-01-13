@@ -617,7 +617,7 @@
 		"minecraft:dirt": "dirt",
 		"minecraft:cobblestone": "stone",
 		"minecraft:planks": "wood",
-		"minecraft:sapling": "#sapling",
+		"minecraft:sapling": "#",
 		"minecraft:bedrock": "bedrock",
 		"minecraft:flowing_water": "NOT_EMITTER",
 		"minecraft:water": "NOT_EMITTER",
@@ -1098,7 +1098,9 @@
 			"acousticProfile": "#sapling",
 			"dictionaryEntries": [
 				"treeSaplings",
-				"saplingTree"
+				"saplingTree",
+				"treeSapling",
+				"sapling"
 			]
 		},
 		{
